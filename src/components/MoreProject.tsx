@@ -24,6 +24,7 @@ const MoreProject = ({
               `/works/${item.node.frontmatter?.title?.toLowerCase()}/` !==
               location.pathname
           )
+          .slice(0, 3)
           .map((item, i) => (
             <a
               key={`wrok-${i}`}
