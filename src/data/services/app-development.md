@@ -29,6 +29,8 @@ expertise:
       description: At Vibrant IT, we develop and release mobile apps that are fast,
         stable, and perform admirably. We've completed projects that show our
         expertise.
+    - title: Random
+      description: Random
 project:
   titleBefore: Recent
   titleHighlight: Software Development
